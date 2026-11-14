@@ -9,8 +9,8 @@
   <img src="./images/uha4.png" alt="Logo UHA 4.0" height="60" />
 </p>
 
-# 🎓 Mémoire de Licence — EasyBetMe
-### *Bachelor's Thesis — EasyBetMe*
+<h1>🎓 Mémoire de Licence — EasyBetMe</h1>
+<h3><i>Bachelor's Thesis — EasyBetMe</i></h3>
 
 </div>
 
