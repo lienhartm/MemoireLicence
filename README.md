@@ -43,7 +43,7 @@
 
 ## 🛠️ Technologies & Compétences Mobilisées
 
-* **Développement Web / Logiciel :** `[Ex: HTML5, CSS3, JavaScript, PHP, React, Python...]`
+* **Développement Web / Logiciel :** `[Ex: HTML5, CSS3, JavaScript, PHP, SQL, ...]`
 * **Outils & DevOps :** `[Ex: Git, GitHub, Docker, VS Code...]`
 * **Rédaction & Mise en page :** LaTeX
 * **Méthodologie :** `[Ex: Gestion de projet Agile, Analyse des besoins, UX/UI...]`
@@ -54,9 +54,7 @@
 
 ```text
 ├── 📄 memoire-licence.pdf      # Version finale compilée du mémoire
-├── 📁 latex/                   # Sources LaTeX du document (.tex, .bib)
-├── 📁 images/                  # Figures, schémas et logos utilisés
-└── 📁 annexes/                 # Ressources complémentaires / code source du projet
+└── 📁 images/                  # Figures, schémas et logos utilisés
 ```
 
 ---
