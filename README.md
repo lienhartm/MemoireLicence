@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./images/serfa.png" alt="Logo SERFA" height="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/monwebpro.png" alt="Logo MonWebPro" height="60" />
+  <img src="./images/monwebpro-crop.png" alt="Logo MonWebPro" height="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/uha4.png" alt="Logo UHA 4.0" height="60" />
 </p>
@@ -28,6 +28,10 @@
 * **Entreprise d'accueil :** MonWebPro
 * **Année universitaire :** 2026 – 2027
 * **Encadrement :** [Nom du tuteur pédagogique] (UHA/SERFA) & [Nom du tuteur entreprise] (MonWebPro)
+
+---
+
+<img src="./images/Logo-easyBet.svg" alt="Logo EasyBetMe" height="120" />
 
 ---
 
