@@ -9,8 +9,8 @@
   <img src="./images/uha4.png" alt="Logo UHA 4.0" height="60" />
 </p>
 
-# 🎓 Mémoire de Licence — [Titre de votre mémoire]
-### *Bachelor's Thesis — [English Title of Your Thesis]*
+# 🎓 Mémoire de Licence — EasyBetMe
+### *Bachelor's Thesis — EasyBetMe*
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
@@ -42,10 +42,10 @@
 ## 📌 Contexte Académique & Professionnel
 
 * **Auteur :** Michael Lienhart
-* **Diplôme :** Licence Professionnelle / Bachelor's Degree — [Intitulé exact de votre formation]
+* **Diplôme :** Licence Professionnelle / Bachelor's Degree — Métiers de l'informatique Conception, Tests et développement de logiciels
 * **Établissement :** Université de Haute-Alsace (UHA 4.0) / SERFA
 * **Entreprise d'accueil :** MonWebPro
-* **Année universitaire :** 2026 – 2027
+* **Année universitaire :** 2023 - 2025
 * **Encadrement :** [Nom du tuteur pédagogique] (UHA/SERFA) & [Nom du tuteur entreprise] (MonWebPro)
 
 ---
